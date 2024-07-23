@@ -74,18 +74,3 @@ Plume Testnet Bot is an application designed to interact with the Plume Network 
     - `0` for a one-time check-in.
     - `1` to set up a cron job for automatic daily check-ins.
 
-## Donations
-
-If you would like to support the development of this project, you can make a donation using the following addresses:
-
-- **Solana**: `GLQMG8j23ookY8Af1uLUg4CQzuQYhXcx56rkpZkyiJvP`
-- **EVM**: `0x960EDa0D16f4D70df60629117ad6e5F1E13B8F44`
-- **BTC**: `bc1p9za9ctgwwvc7amdng8gvrjpwhnhnwaxzj3nfv07szqwrsrudfh6qvvxrj8`
-
-## Contributing
-
-Feel free to open issues or submit pull requests if you have improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
