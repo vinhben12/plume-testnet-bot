@@ -105,7 +105,7 @@ const performTransactions = async (count) => {
       console.log(
         `[${moment().format(
           'HH:mm:ss'
-        )}] All transactions have been completed. Congrats! Subscribe: https://t.me/HappyCuanAirdrop`
+        )}] All transactions have been completed. Congrats! Bú nịt soon`
           .blue
       );
     }
